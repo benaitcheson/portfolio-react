@@ -3,13 +3,14 @@ import React from 'react'
 
 // My own modules
 import Footer from './Footer';
+import MainContent from './MainContent';
 import Nav from './Nav';
 
 const App = () => {
   return (
     <div >
       <Nav />
-      <p>This is a basic empty template</p>
+      <MainContent />
       <Footer />
     </div>
   )
