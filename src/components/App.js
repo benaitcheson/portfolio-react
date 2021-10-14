@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div >
-          The basic empty template
+      <p>The basic empty template</p>
     </div>
   )
 }
