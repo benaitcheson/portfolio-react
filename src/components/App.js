@@ -1,10 +1,16 @@
 // React dependencies
 import React from 'react'
 
+// My own modules
+import Footer from './Footer';
+import Nav from './Nav';
+
 const App = () => {
   return (
     <div >
-      <p>The basic empty template</p>
+      <Nav />
+      <p>This is a basic empty template</p>
+      <Footer />
     </div>
   )
 }
