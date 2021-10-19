@@ -1,9 +1,10 @@
 // React dependencies
-import React from 'react'
+import React from 'react';
+import '../style.css';
 
 const Nav = () => {
     return (
-        <nav>
+        <nav className="navbar">
             <p>This is a nav</p>
         </nav>
     )

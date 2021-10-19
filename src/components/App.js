@@ -1,5 +1,5 @@
 // React dependencies
-import React from 'react'
+import React from 'react';
 
 // My own modules
 import Footer from './Footer';
