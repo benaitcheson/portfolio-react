@@ -3,9 +3,9 @@ import React from 'react';
 
 const MainContent = () => {
     return (
-        <main>
-            <p>Hi, my name is Ben Aitcheson.</p>
-            <p>Welcome to my portfolio page, I'll showcase my projects here.</p>
+        <main class="container">
+            <h1>Hi, my name is Ben Aitcheson.</h1>
+            <h1>Welcome to my portfolio page, I'll showcase my projects here.</h1>
             <button>Find out more!</button>
         </main>
     )
