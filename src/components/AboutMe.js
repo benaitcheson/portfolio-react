@@ -3,8 +3,8 @@ import React from 'react';
 
 const AboutMe = () => {
     return (
-        <section>
-            <h2>About Me</h2>
+        <section className="aboutme" class="position-relative">
+            <h2 class="mx-auto p-4 container">About Me</h2>
         </section>
     )
 }
