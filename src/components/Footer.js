@@ -4,7 +4,8 @@ import React from 'react';
 const Footer = () => {
     return (
         <footer>
-            <p>This is a footer</p>
+            <p>insert socials. Github. Linkedin.</p>
+            <p>copyright</p>
         </footer>
     )
 }
