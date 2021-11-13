@@ -3,9 +3,9 @@ import React from 'react';
 
 const AboutMe = () => {
     return (
-        <section className="aboutme" class="position-relative">
+        <div>
             <h2 class="mx-auto p-4 container">About Me</h2>
-        </section>
+            </div>
     )
 }
 

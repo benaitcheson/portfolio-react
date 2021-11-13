@@ -3,7 +3,7 @@ import React from 'react';
 
 const Projects = () => {
     return (
-        <section>
+        <section class="mx-auto p-4 container">
             <h2>Projects</h2>
         </section>
     )
