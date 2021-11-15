@@ -2,14 +2,17 @@
   background-color: #78a1bb;
 }
 
-.aboutme {
-  background-color: #78a1bb;
+.footer .container {
+  background-color: #283044;
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
 }
 
 /* Colour Pallette */
 
-/* 283044
-78A1BB
-EBF5EE
-BFA89E
-8B786D */
+/* #283044 - Black
+#78A1BB - Blue
+#EBF5EE
+#BFA89E
+#8B786D */
