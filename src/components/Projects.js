@@ -11,8 +11,8 @@ const Projects = () => {
                     <div class="card">
                         <div class="card-body">
                             <h5 class="card-title">Two sided Market place</h5>
-                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                            <a href="#" class="btn btn-primary">See the page</a>
+                            <p class="card-text">This project is a two-sided marketplace for financial planners and customers to meet. This project was created entirely with Ruby on Rails with Postgresql used for the database.</p>
+                            <a href="https://t2a2-marketplace-app.herokuapp.com/" class="btn btn-primary">Go to Website</a>
                         </div>
                     </div>
                 </div>
