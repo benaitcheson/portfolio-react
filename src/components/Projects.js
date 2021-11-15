@@ -47,8 +47,8 @@ const Projects = () => {
                     <div class="card">
                         <div class="card-body">
                             <h5 class="card-title">Coder Academy Hackathon 2</h5>
-                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                            <a href="#" class="btn btn-primary">Go to the Repository for this Project</a>
+                            <p class="card-text">TEXT.</p>
+                            <a href="https://github.com/NatalieLouise91/bookapp" class="btn btn-primary">Go to the Repository for this Project</a>
                         </div>
                     </div>
                 </div>
