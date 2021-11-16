@@ -1,5 +1,13 @@
-.navbar {
+* {
+  padding-bottom: 0px;
+}
+
+navbar {
   background-color: #78a1bb;
+}
+
+.footer {
+  background-color: #283044;
 }
 
 /* Colour Pallette */
