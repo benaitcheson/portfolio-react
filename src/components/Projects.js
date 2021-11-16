@@ -6,7 +6,7 @@ const Projects = () => {
         <section class="mx-auto p-4 container">
             <h2>Projects</h2>
 
-            <div class="row">
+            <div class="row gy-3">
                 <div class="col-sm-6">
                     <div class="card">
                         <div class="card-body">
