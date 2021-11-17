@@ -3,20 +3,20 @@ import React from 'react';
 
 const Contact = () => {
     return (
-        <section  class="mx-auto p-4 container">
+        <section className="mx-auto p-4 container">
             <h2>Contact</h2>
             
             <form>
-                <div class="mb-3">
-                    <label for="exampleInputEmail1" class="form-label">Email address</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1" aria-label="emailHelp"/>
+                <div className="mb-3">
+                    <label for="exampleInputEmail1" className="form-label">Email address</label>
+                    <input type="email" className="form-control" id="exampleInputEmail1" aria-label="emailHelp"/>
                 </div>
 
-                <div class="form-floating">
-                    <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2"></textarea>
+                <div className="form-floating">
+                    <textarea className="form-control" placeholder="Leave a comment here" id="floatingTextarea2"></textarea>
                     <label for="floatingTextarea2">Comments</label>
                 </div>
-                <button type="submit" class="btn btn-primary">Submit</button>
+                <button type="submit" className="btn btn-primary">Submit</button>
             </form>
         </section>
     )
