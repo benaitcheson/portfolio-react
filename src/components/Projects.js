@@ -3,7 +3,7 @@ import React from 'react';
 
 const Projects = () => {
     return (
-        <section className="mx-auto p-4 container">
+        <section className="mx-auto p-5 container">
             <h2>Projects</h2>
 
             <div className="row gy-3">
